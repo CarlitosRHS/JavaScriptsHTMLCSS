@@ -1,0 +1,13 @@
+mkdir = crear carpeta
+touch = crear archivo
+ctrl+l = limpiar pantalla
+git add (nombre archivo) = subir a zona de stech archivo por archivo
+git add . = sube todos los archivos a zona de stech 
+git commit -m "Primer commit" luego de agregar una modificacion hay que hacer el commit
+git diff = verificar los cambios realiados 
+git reset HEAD nombre del archivo = eliminar el archivo del repositorio
+git checkout . = regresar un paso anterior al cambio realizado antes del commit
+git log = cambios realizados
+git checkout el ID segun el log y regresamos ala vercion requerida
+git remote add origin (la url que genera el repositorio creado en github)
+git push -u origin maste para agregar los cambios al archivo remoto
